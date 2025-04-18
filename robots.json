@@ -195,6 +195,13 @@
         "operator": "[img2dataset](https://github.com/rom1504/img2dataset)",
         "respect": "Unclear at this time."
     },
+    "imgproxy": {
+        "frequency": "No information.",
+        "function": "Not documented or explained on operator's site.",
+        "operator": "[imgproxy](https://imgproxy.net)",
+        "respect": "Unclear at this time.",
+        "description": "AI-powered image processing."
+    },
     "ISSCyberRiskCrawler": {
         "description": "Used to train machine learning based models to quantify cyber risk.",
         "frequency": "No information.",
@@ -223,6 +230,13 @@
         "frequency": "Unclear at this time.",
         "description": "Meta-ExternalFetcher is dispatched by Meta AI products in response to user prompts, when they need to fetch an individual links. More info can be found at https://darkvisitors.com/agents/agents/meta-externalfetcher"
     },
+    "NovaAct": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Agents",
+        "frequency": "Unclear at this time.",
+        "description": "Nova Act is an AI agent created by Amazon that can use a web browser. It can intelligently navigate and interact with websites to complete multi-step tasks on behalf of a human user. More info can be found at https://darkvisitors.com/agents/agents/novaact"
+    },
     "OAI-SearchBot": {
         "operator": "[OpenAI](https://openai.com)",
         "respect": "[Yes](https://platform.openai.com/docs/bots)",
@@ -243,6 +257,13 @@
         "function": "Data is sold.",
         "operator": "[Webz.io](https://webz.io/)",
         "respect": "[Yes](https://web.archive.org/web/20170704003301/http://omgili.com/Crawler.html)"
+    },
+    "Operator": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Agents",
+        "frequency": "Unclear at this time.",
+        "description": "Operator is an AI agent created by OpenAI that can use a web browser. It can intelligently navigate and interact with websites to complete multi-step tasks on behalf of a human user. More info can be found at https://darkvisitors.com/agents/agents/operator"
     },
     "PanguBot": {
         "operator": "the Chinese company Huawei",
