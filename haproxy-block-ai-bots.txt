@@ -84,6 +84,7 @@ GoogleOther
 GoogleOther-Image
 GoogleOther-Video
 GPTBot
+Grok Bot
 HenkBot
 iAskBot
 iaskspider
@@ -92,6 +93,7 @@ ICC-Crawler
 ImagesiftBot
 imageSpider
 img2dataset
+Instinct
 ISSCyberRiskCrawler
 kagi-fetcher
 Kangaroo Bot
@@ -119,6 +121,7 @@ MistralAI-Training
 MistralAI-User
 MistralAI-User/1.0
 Mozilla-Tabstack
+Muse
 MyCentralAIScraperBot
 NagetBot
 netEstate Imprint Crawler
