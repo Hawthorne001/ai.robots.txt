@@ -58,6 +58,7 @@ DeepSeekBot
 Devin
 Diffbot
 Diffbot-User
+Dot
 DoubaoBot
 DuckAssistBot
 Echobot Bot
@@ -86,6 +87,7 @@ GoogleOther-Image
 GoogleOther-Video
 GPTBot
 Grok Bot
+HarkBot
 HenkBot
 iAskBot
 iaskspider
